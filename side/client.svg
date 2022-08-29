@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170" height="32" role="img" aria-label="SIDE: CLIENT ONLY">
+  <title>SIDE: CLIENT ONLY</title>
+  <g shape-rendering="crispEdges">
+    <rect width="60" height="32" fill="#2f4858"/>
+    <rect x="60" width="113" height="32" fill="#ecebe6"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="300" y="200" textLength="340" fill="#fff">SIDE</text>
+    <text transform="scale(.1)" x="1150" y="200" textLength="900" fill="#333" font-weight="bold">CLIENT ONLY</text>
+  </g>
+</svg>
