@@ -4,7 +4,7 @@
     <rect width="95" height="32" fill="#ecebe6"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-    <image xmlns="http://www.w3.org/2000/svg" x="9" y="9" width="16" height="16" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/loader/forge-logo.svg" color="#2f4858"/>
+    <image x="9" y="9" width="16" height="16" href="https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/loader/forge-logo.svg" color="#2f4858"/>
     <text transform="scale(.1)" x="575" y="200" textLength="500" fill="#333" font-weight="bold">FORGE</text>
   </g>
 </svg>
