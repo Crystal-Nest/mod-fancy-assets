@@ -17,7 +17,7 @@ Check the [Relations tab](https://www.curseforge.com/minecraft/modpacks/crystal-
 
 ## **Optifine**
 This modpack (client side only) needs Optifine to work properly.  
-To install and download the latest Optifine version follow these steps:
+To install and download the latest Optifine version follow these steps:  
 - Go to https://www.optifine.net/downloads and download the OptiFine HD U H7 for Minecraft 1.18.2 (you will need to click on "Show all versions" to see it).  
   ![Optifine download 1](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/optifine-show-all-versions.png)  
   ![Optifine download 2](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/optifine-h7.png)
