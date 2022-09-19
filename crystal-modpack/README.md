@@ -12,6 +12,8 @@
 Light Vanilla+ Modpack working both standalone or coupled with the provided server pack version (Crystal Server).  
 Play a Vanilla style modpack, but improved in many ways.
 
+Includes feature from 1.19, chat reporting excluded, thanks to [The Wild Backport](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport) mod!
+
 ## **Included mods**
 Check the [Relations tab](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/relations/dependencies).
 
