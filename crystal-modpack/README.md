@@ -17,6 +17,29 @@ Includes feature from 1.19, chat reporting excluded, thanks to [The Wild Backpor
 ## **Included mods**
 Check the [Relations tab](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/relations/dependencies).
 
+## **Resource packs**
+All resource packs are activated by default.  
+- [Water improved](https://www.curseforge.com/minecraft/texture-packs/water-improved)  
+- [Clear glass](https://www.curseforge.com/minecraft/texture-packs/clear-glass-pack)  
+- [Ore Variants](https://www.curseforge.com/minecraft/texture-packs/ore-variants)  
+- [Torches Reimagined](https://www.curseforge.com/minecraft/texture-packs/torches-reimagined)  
+- [Rails Reimagined](https://www.curseforge.com/minecraft/texture-packs/rails-reimagined)  
+- [Armorstands Reimagined](https://www.curseforge.com/minecraft/texture-packs/armorstands-reimagined)  
+- [Creeper Overhaul Overhaul](https://www.curseforge.com/minecraft/texture-packs/creeper-overhaul-overhaul)  
+- [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)  
+- [Enhanced Mobs](https://www.curseforge.com/minecraft/texture-packs/enhanced-mobs-fa-addon)  
+- [Darkmode](https://www.curseforge.com/minecraft/texture-packs/darkmode)  
+
+## **Shaders**
+Optifine is required to play with shaders, check the section below for how to install it.  
+4 Shaders pack will be available:  
+- Optifine (internal): maximum performance, no graphic changes.  
+- Buider's QOL: high performance, small graphic changes.  
+- Potato Shaders: high performance, small graphic changes.  
+- BSL Shaders: low performance, big graphic changes.  
+
+Shaders are **not** necessary to enjoy the modpack, the above mentioned resource packs already give quite the nice feeling to the gameplay.
+
 ## **Optifine**
 This modpack (client side only) needs Optifine to work properly.  
 To install and download the latest Optifine version follow these steps:  
