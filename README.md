@@ -9,6 +9,9 @@ This project is published under the [Unlicense](https://unlicense.org/).
 The only exceptions are [crystal-spider.png](./crystal-spider.png) and [Crystal Modpack banner.png](./crystal-modpack/banner.png) that are explicitly exempted from what stated above and **cannot** be reused by anyone in anyway.
 
 ## **Support me**
+[![Twitch](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/twitch/twitch64.png "Twitch")](https://www.twitch.tv/crystal_spider_)
+[![Patreon](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/patreon/patreon64.png "Patreon")](https://www.patreon.com/crystalspider)
 [![Ko-fi](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/kofi/kofi64.png "Ko-fi")](https://ko-fi.com/crystalspider)
 [![GitHub](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/github/github64.png "My other projects")](https://github.com/Nyphet)
 [![My other projects](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/curseforge/curseforge64.png "My other projects")](https://www.curseforge.com/members/crystal_spider_/projects)
+

@@ -63,6 +63,8 @@ Feel free to use this modpack for any video, but possibly link [here](https://ww
 This project is published under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ## **Support me**
+[![Twitch](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/twitch/twitch64.png "Twitch")](https://www.twitch.tv/crystal_spider_)
+[![Patreon](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/patreon/patreon64.png "Patreon")](https://www.patreon.com/crystalspider)
 [![Ko-fi](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/kofi/kofi64.png "Ko-fi")](https://ko-fi.com/crystalspider)
-[![GitHub](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/github/github64.png "GitHub")](https://github.com/Nyphet)
+[![GitHub](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/github/github64.png "My other projects")](https://github.com/Nyphet)
 [![My other projects](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/curseforge/curseforge64.png "My other projects")](https://www.curseforge.com/members/crystal_spider_/projects)
