@@ -22,6 +22,7 @@ All resource packs are activated by default.
 - [Water improved](https://www.curseforge.com/minecraft/texture-packs/water-improved)  
 - [Clear glass](https://www.curseforge.com/minecraft/texture-packs/clear-glass-pack)  
 - [Ore Variants](https://www.curseforge.com/minecraft/texture-packs/ore-variants)  
+- [Spryzeen's Ore glint](https://www.curseforge.com/minecraft/texture-packs/spryzeens-ore-glint)  
 - [Torches Reimagined](https://www.curseforge.com/minecraft/texture-packs/torches-reimagined)  
 - [Rails Reimagined](https://www.curseforge.com/minecraft/texture-packs/rails-reimagined)  
 - [Armorstands Reimagined](https://www.curseforge.com/minecraft/texture-packs/armorstands-reimagined)  
@@ -32,11 +33,12 @@ All resource packs are activated by default.
 
 ## **Shaders**
 Optifine is required to play with shaders, check the section below for how to install it.  
-4 Shaders pack will be available:  
-- Optifine (internal): maximum performance, no graphic changes.  
-- Buider's QOL: high performance, small graphic changes.  
-- Potato Shaders: high performance, small graphic changes.  
-- BSL Shaders: low performance, big graphic changes.  
+5 Shaders pack will be available:  
+- [Optifine](https://www.optifine.net/home) (internal): maximum performance, no graphic changes.  
+- [Buider's QOL](https://www.9minecraft.net/builders-quality-of-life-shaders-mod/): high performance, small graphic changes.  
+- [Potato Shaders](https://www.curseforge.com/minecraft/customization/potato-shaders): high performance, small graphic changes.  
+- [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders): medium performance, medium graphic changes.  
+- [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders): low performance, big graphic changes.  
 
 Shaders are **not** necessary to enjoy the modpack, the above mentioned resource packs already give quite the nice feeling to the gameplay.
 
