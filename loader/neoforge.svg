@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="32" role="img" aria-label="NEOFORGE">
+  <title>NEOFORGE</title>
+  <g shape-rendering="crispEdges">
+    <rect width="116" height="32" fill="#ecebe6"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="9" width="16" height="16" href="https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/loader/neoforge-logo.png"/>
+    <text transform="scale(.1)" x="700" y="200" textLength="750" fill="#333" font-weight="bold">NEOFORGE</text>
+  </g>
+</svg>
