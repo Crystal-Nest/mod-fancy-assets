@@ -1,11 +1,11 @@
-![Crystal Modpack banner](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/banner.png)
+![Crystal Modpack banner](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/crystal-modpack/banner.png)
 
 ---
-![Minecraft](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/minecraft/minecraft.svg)[![1.18.2](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/minecraft/1-18-2.svg)](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/files/all?filter-game-version=1738749986%3a73250)
+![Minecraft](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/minecraft.svg)[![1.18.2](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/minecraft/1-18-2.svg)](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/files/all?filter-game-version=1738749986%3a73250)
 
-![Loader](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/loader/loader.svg)[![Forge](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/loader/forge.svg)](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/files/all?filter-status=1&filter-game-version=2020709689%3A7498)
+![Loader](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/loader/loader.svg)[![Forge](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/loader/forge.svg)](https://www.curseforge.com/minecraft/modpacks/crystal-modpack/files/all?filter-status=1&filter-game-version=2020709689%3A7498)
 
-![Side](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/side/client-server.svg)
+![Side](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/side/client-server.svg)
 
 ---
 ## **Description**
@@ -46,10 +46,10 @@ Shaders are **not** necessary to enjoy the modpack, the above mentioned resource
 This modpack (client side only) needs Optifine to work properly.  
 To install and download the latest Optifine version follow these steps:  
 - Go to https://www.optifine.net/downloads and download the OptiFine HD U H7 for Minecraft 1.18.2 (you will need to click on "Show all versions" to see it).  
-  ![Optifine download 1](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/optifine-show-all-versions.png)  
-  ![Optifine download 2](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/optifine-h7.png)
+  ![Optifine download 1](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/crystal-modpack/optifine-show-all-versions.png)  
+  ![Optifine download 2](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/crystal-modpack/optifine-h7.png)
 - Go to your CurseForge profile and select the option to open the folder of this modpack.  
-  ![Curseforge](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/crystal-modpack/curseforge-open-folder.png)
+  ![Curseforge](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/crystal-modpack/curseforge-open-folder.png)
 - Open the subfolder `mods` and drag there the `OptiFine_1.18.2_HD_U_H7.jar`.
 
 ## **Configuration**
@@ -65,8 +65,11 @@ Feel free to use this modpack for any video, but possibly link [here](https://ww
 This project is published under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ## **Support me**
-[![Twitch](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/twitch/twitch64.png "Twitch")](https://www.twitch.tv/crystal_spider_)
-[![Patreon](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/patreon/patreon64.png "Patreon")](https://www.patreon.com/crystalspider)
-[![Ko-fi](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/kofi/kofi64.png "Ko-fi")](https://ko-fi.com/crystalspider)
-[![GitHub](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/github/github64.png "My other projects")](https://github.com/Nyphet)
-[![My other projects](https://raw.githubusercontent.com/Nyphet/mod-fancy-assets/main/curseforge/curseforge64.png "My other projects")](https://www.curseforge.com/members/crystal_spider_/projects)
+[![Twitch](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/twitch/twitch64.png "Twitch")](https://www.twitch.tv/crystal_spider_)
+[![Patreon](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/patreon/patreon64.png "Patreon")](https://www.patreon.com/crystalspider)
+[![Ko-fi](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/kofi/kofi64.png "Ko-fi")](https://ko-fi.com/crystalspider)
+[![GitHub](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/github/github64.png "My other projects")](https://github.com/crystal-nest)
+[![Modrinth](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/modrinth/modrinth64.png "Modrinth")](https://modrinth.com/user/CrystalSpider)
+[![Curseforge](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/curseforge/curseforge64.png "Curseforge")](https://www.curseforge.com/members/crystal_spider_/projects)
+
+[![Bisect Hosting](https://www.bisecthosting.com/partners/custom-banners/d559b544-474c-4109-b861-1b2e6ca6026a.webp "Bisect Hosting")](https://bisecthosting.com/crystalspider)

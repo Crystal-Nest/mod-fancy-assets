@@ -6,7 +6,7 @@ Feel free to take whatever you like for your needs, everything is free.
 It'd be much appreciated if you were to credit this repository for the assets you use.
 This project is published under the [Unlicense](https://unlicense.org/).
 
-The only exceptions are [crystal-spider.png](./crystal-spider.png) and [Crystal Modpack banner.png](./crystal-modpack/banner.png) that are explicitly exempted from what stated above and **cannot** be reused by anyone in anyway.
+The only exceptions are [crystal-spider.png](./crystal-spider.png), [Crystal Modpack banner.png](./crystal-modpack/banner.png), and everything under [sbekucraft](./sbekucraft/) which are instead explicitly exempted from what stated above and **cannot** be reused by anyone in anyway.
 
 ## **Support me**
 [![Twitch](https://raw.githubusercontent.com/crystal-nest/mod-fancy-assets/main/twitch/twitch64.png "Twitch")](https://www.twitch.tv/crystal_spider_)
