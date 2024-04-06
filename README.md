@@ -1,6 +1,6 @@
 # mod-fancy-assets
 
-Collection of all the assets, mainly images, I use for my Minecraft mods.  
+Collection of all the assets, mainly images, we use for my Minecraft mods.  
 Feel free to take whatever you like for your needs, everything is free.
 
 ## **License and right of use**
