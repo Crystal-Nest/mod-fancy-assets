@@ -1,14 +1,15 @@
 # mod-fancy-assets
 
-Collection of all the assets, mainly images, we use for my Minecraft mods.  
-Feel free to take whatever you like for your needs, everything is free.
+Collection of all the assets we use for our Minecraft mods.  
+Some can be used freely by anyone else, some cannot.
 
 ## **License and right of use**
 
 It'd be much appreciated if you were to credit this repository for the assets you use.
-This project is published under the [Unlicense](https://unlicense.org/).
 
-The only exceptions are [crystal-spider.png](./crystal-spider.png), [Crystal Modpack banner.png](./crystal-modpack/banner.png), and everything under [sbekucraft](./sbekucraft/) and [crystal-nest](./crystal-nest/), which are instead explicitly exempted from what stated above and **cannot** be reused by anyone in anyway.
+This project has two licenses, the [Unlicense](https://github.com/Crystal-Nest/mod-fancy-assets?tab=Unlicense-2-ov-file) and the [All Rights Reserved license](https://github.com/Crystal-Nest/mod-fancy-assets?tab=License-1-ov-file), each applied to different files.  
+The ARR license is applied to all files under a folder named as one of our projects, including `crystal-spider.png`, `hosting` and `sbekucraft`.  
+The Unlicense is applied to all other files, for example `separator.svg` and anything under `minecraft`, `modrinth`, `side`, `loader`, `github`, `kofi`, and so on.
 
 ## **Support us**
 
