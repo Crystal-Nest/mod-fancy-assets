@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="32" role="img" aria-label="1.21.4">
+  <title>1.21.4</title>
+  <g shape-rendering="crispEdges">
+    <rect width="65" height="32" fill="#ecebe6"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="325" y="200" textLength="400" fill="#333" font-weight="bold">1.21.4</text>
+  </g>
+</svg>
