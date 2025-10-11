@@ -8,7 +8,7 @@ Some can be used freely by anyone else, some cannot.
 It'd be much appreciated if you were to credit this repository for the assets you use.
 
 This project has two licenses, the [Unlicense](https://github.com/Crystal-Nest/mod-fancy-assets?tab=Unlicense-2-ov-file) and the [All Rights Reserved license](https://github.com/Crystal-Nest/mod-fancy-assets?tab=License-1-ov-file), each applied to different files.  
-The ARR license is applied to all files under a folder named as one of our projects, including `crystal-spider.png`, `hosting`, `patreon/tiers`, and `sbekucraft`.  
+The ARR license is applied to all files under a folder named as one of our projects, also including `crystal-spider.png`, `mod-icon-frame.png`, `hosting`, `patreon/tiers`, and `sbekucraft`.  
 The Unlicense is applied to all other files, for example `separator.svg` and anything under `minecraft`, `modrinth`, `side`, `loader`, `github`, `kofi`, and so on.
 
 ## **Support us**
