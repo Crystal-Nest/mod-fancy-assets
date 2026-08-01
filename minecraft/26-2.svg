@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 32" width="60" height="32">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ecebe6 } 
+		.t1 { font-size: 100px;fill: #333333;font-family: "Verdana" } 
+	</style>
+	<g>
+		<path fill-rule="evenodd" class="s0" d="m0 0h60v32h-60z"/>
+	</g>
+	<g>
+		<text id="26.2" style="transform: matrix(.1,0,0,.1,30,20)">
+			<tspan x="-111.3" y="0" class="t1">26.</tspan><tspan  y="0" class="t1">2</tspan><tspan  y="0" class="t1">
+</tspan>
+		</text>
+	</g>
+</svg>
